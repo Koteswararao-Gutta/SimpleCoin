@@ -20,22 +20,31 @@ SimpleCoin is a basic implementation of a blockchain and cryptocurrency in Pytho
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
+   ```bash
    git clone https://github.com/Koteswararao-Gutta/SimpleCoin.git
    cd SimpleCoin
+   ```
 
-2. Create and activate a virtual environment (optional but recommended):
+2. **Create and activate a virtual environment** (optional but recommended):
+   ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
 
-3. Install the dependencies:
+3. **Install the dependencies**:
+   ```bash
    pip install -r requirements.txt
+   ```
 
-4. Run the application:
+4. **Run the application**:
+   ```bash
    python app.py
+   ```
 
-5. Access the web app:
-   Open your web browser and go to http://127.0.0.1:5000/ to interact with SimpleCoin.
+5. **Access the web app**:
+   Open your web browser and go to `http://127.0.0.1:5000/` to interact with SimpleCoin.
+
 
 ## Usage
 
